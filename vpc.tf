@@ -2,8 +2,8 @@
 # Create VPC/Subnet/SecurityGroup/ACL
 provider "aws" {
   region     = "${var.region}"
-  access_key = "AKIAWTJEGAHZYYSAVXFW"
-  secret_key = "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"
+  access_key = "dskjhfjdshkj"
+  secret_key = "sdkajfhkjdskjds"
 } #End of Provider
 
 # Create the VPC
